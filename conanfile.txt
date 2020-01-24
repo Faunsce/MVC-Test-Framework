@@ -1,0 +1,8 @@
+[requires]
+sfml/2.5.1@bincrafters/stable
+jsonformoderncpp/3.7.0@vthiery/stable
+
+[options]
+sfml:window=True
+sfml:graphics=True
+sfml:audio=True
